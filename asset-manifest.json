@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//OmShriRaikwar.github.io/GryfLive/static/css/main.073c9b0a.css",
+    "main.js": "/http//OmShriRaikwar.github.io/GryfLive/static/js/main.4e706414.js",
+    "index.html": "/http//OmShriRaikwar.github.io/GryfLive/index.html",
+    "main.073c9b0a.css.map": "/http//OmShriRaikwar.github.io/GryfLive/static/css/main.073c9b0a.css.map",
+    "main.4e706414.js.map": "/http//OmShriRaikwar.github.io/GryfLive/static/js/main.4e706414.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4e706414.js"
+  ]
+}
